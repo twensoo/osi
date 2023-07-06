@@ -1,5 +1,5 @@
 <div align="center">
-<img src="media/osi-model-7-layers.svg">
+<img src="osi.svg">
 <p><strong>Figure:</strong> the OSI layers and their usage.</p>
 </div>
 
