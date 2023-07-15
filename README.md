@@ -3,7 +3,6 @@
 <p><strong>Figure:</strong> the OSI layers and their usage.</p>
 </div>
 
-#### Здесь представлена "идеальная" модель, которая отличется на практике
 
 # OSI✈️
 | **protocol**                        | **decode**                           | ***mind***                           |
